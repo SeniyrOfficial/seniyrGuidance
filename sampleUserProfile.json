@@ -1,0 +1,44 @@
+
+// -> Data Input -> Test -> Preferences -> Data Upload
+// JSON
+
+{
+    "uid": "6969",
+    "name": "Kartik Anand",
+    "email_id" : "kstyles_lodu@iitgoa.ac.in",
+    // "occupation":"software develepor",
+    "education_degree": "btech",
+    "institution": "Indian Institute of Technology, Goa",
+    "years_completed": "4",
+    "education_merits":{
+        "10th_percentage": "98%",
+        "12th_percentage": "96%",
+        "graduation_percentage": "99%"
+    },
+    // ""
+    // ""
+    // ""
+    // ""
+    
+    "experience": 
+    {
+        {
+
+            "Title": "Software develepor",
+            "Job Type": "Full-Time",
+            "Job Start Data": "13-06-2022",
+            "Organisation": "Facebook"
+        }
+    } ,
+    {
+
+        "CodeChef/CodeForces:": "2"
+    }
+    
+
+
+
+
+}
+
+// 2 JSON -> userProfile & DataBase
