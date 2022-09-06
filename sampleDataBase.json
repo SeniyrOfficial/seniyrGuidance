@@ -1,0 +1,105 @@
+// m : mutable variables. Changed by the algorithm
+// imm : immutable variables. Not to be changed by the algorithm
+// mutable: on/off, start_time, end_time
+{
+    {
+        "on/off" : "1",
+        "goal" : "developer",
+        "hackathon_1" : {
+            "on/off" : "1",
+
+        },
+        "hackathon_2" : {
+            "on/off" : "1",
+
+        },
+        "hackathon_3" : {
+            "on/off" : "1",
+
+        },
+        
+        "gsoc" : {
+            "on/off" : "1",
+            
+        },
+        
+        "c++ programming videos" : {
+            "on/off" : "1",
+
+        },
+        "dsa" : {
+            "on/off" : "1",
+            "array" : {
+                "on/off" : "1",
+                "start_time" : "",
+                "end_time" : "",
+                "learning_content" : {
+                    // learning_content (uwuwu)
+                },
+                "problems" : {
+                    // problems
+                }
+            },
+            "Lists" : {
+                "on/off" : "1",
+                "start_time" : "",
+                "end_time" : "",
+                "learning_content" : {
+                    // learning_content (uwuwu)
+                },
+                "problems" : {
+                    // problems
+                }
+            },
+            "Tree" : {
+                "on/off" : "1",
+                "start_time" : "",
+                "end_time" : "",
+                "learning_content" : {
+                    // learning_content (uwuwu)
+                },
+                "problems" : {
+                    // problems
+                }
+            },
+            "Graphs" : {
+                "on/off" : "1",
+                "start_time" : "",
+                "end_time" : "",
+                "learning_content" : {
+                    // learning_content (uwuwu)
+                },
+                "problems" : {
+                    // problems
+                }
+            },
+            "Red Black Trees" : {
+                "on/off" : "1",
+                "start_time" : "",
+                "end_time" : "",
+                "learning_content" : {
+                    // learning_content (uwuwu)
+                },
+                "problems" : {
+                    // problems
+                }
+            },
+            
+        },
+
+        
+    },
+    
+    {
+        "goal" : "developer"
+    },
+    {
+        "goal" : "developer"
+    },
+    {
+        "goal" : "developer"
+    },
+    {
+        "goal" : "developer"
+    },
+}
