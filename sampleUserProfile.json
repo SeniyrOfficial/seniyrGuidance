@@ -23,6 +23,12 @@
         "KVPY": "Yes",
         "Olympiad": "Yes"
     },
+
+    "user_profile":{
+        "gfg": "mommy",
+        "codechef": "mommy",
+        "codeforces": "mommy"
+    }
     // ""
     // ""
     // ""

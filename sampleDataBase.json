@@ -3,7 +3,7 @@
 // mutable: on/off, start_time, end_time
 {
     {
-        "on/off" : "1",
+        "on/off" : "1", // For choosing path to a goal
         "goal" : "developer",
         "hackathon_1" : {
             "on/off" : "1",
@@ -20,13 +20,12 @@
         
         "gsoc" : {
             "on/off" : "1",
-            
         },
         
         "c++ programming videos" : {
             "on/off" : "1",
-
         },
+
         "dsa" : {
             "on/off" : "1",
             "array" : {
