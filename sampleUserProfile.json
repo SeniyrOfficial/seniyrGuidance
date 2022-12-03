@@ -17,33 +17,28 @@
         "JEE Mains Percentile" : "",
         "JEE Advanced Ranks" : ""
     },
+    // Assign a number and take a sum
     "awards/honors":{
         "NTSE": "Yes",
-        "KVPY": "Yes"
-    }
-    // ""
-    // ""
-    // ""
-    // ""
-    
-    "experience": 
-    {
-        {
-
-            "Title": "Software develepor",
-            "Job Type": "Full-Time",
-            "Job Start Data": "13-06-2022",
-            "Organisation": "Facebook"
-        }
+        "KVPY": "Yes",
+        "Olympiad": "Yes"
     },
-    {
+    // ""
+    // ""
+    // ""
+    // ""
+ 
+// To be inculcated later on
+    // "experience": 
+    // {
+    //     {
 
-        "CodeChef/CodeForces:": "2"
-    }
-    
-
-
-
+    //         "Title": "Software develepor",
+    //         "Job Type": "Full-Time",
+    //         "Job Start Data": "13-06-2022",
+    //         "Organisation": "Facebook"
+    //     }
+    // },
 
 }
 
