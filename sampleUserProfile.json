@@ -10,13 +10,17 @@
     "education_degree": "btech",
     "institution": "Indian Institute of Technology, Goa",
     "years_completed": "4", // complex
-    "education_merits":{
+    "grades":{
         "10th_percentage": "98%",
         "12th_percentage": "96%",
         "graduation_percentage": "99%",
         "JEE Mains Percentile" : "",
         "JEE Advanced Ranks" : ""
     },
+    "awards/honors":{
+        "NTSE": "Yes",
+        "KVPY": "Yes"
+    }
     // ""
     // ""
     // ""
@@ -43,4 +47,4 @@
 
 }
 
-// 2 JSON -> userProfile & DataBase
+// 2 JSON -> userProfile & DataBas
